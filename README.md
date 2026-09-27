@@ -1,122 +1,155 @@
 <div align="center">
 
-# Hi, I'm Lavanya Chappidi 👋
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbcce7,100:7B42F6&height=200&section=header&text=Lavanya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&height=100&lines=Data+Analyst+%F0%9F%92%BB;SQL+Specialist+%F0%9F%9A%80;LeetCode+SQL+Enthusiast+%F0%9F%8E%AF;Power+BI+Developer+%E2%9A%A1;Python+for+Data+Analytics+%F0%9F%8C%90;Turning+Data+into+Decisions+%F0%9F%94%A5" alt="Typing SVG" />
+<br/>
 
-### Data Analyst | SQL | Power BI | Python
+*I turn messy, real-world data into decisions people can act on*
 
-**Turning raw data into clear business insights.**
-
-<p>
-  <a href="https://www.linkedin.com/in/lavanya-chappidi/">LinkedIn</a> •
-  <a href="https://www.kaggle.com/chappidilavanya">Kaggle</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lavanya-chappidi/"><img src="https://img.shields.io/badge/LinkedIn-4A0429?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/chappidilavanya"><img src="https://img.shields.io/badge/Kaggle-6D28D9?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:chappidilavanya02@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=4A0429" /></a>
 </p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🧭 About Me
 
-I’m building my career as a **Data Analyst**, with a focus on using data to answer practical business questions.
-
-My current focus is strengthening **SQL, data analysis, data modeling, Power BI, and Python** while building end-to-end projects with real-world datasets.
-
-I’m especially interested in the complete analytics workflow:
-
-**Raw Data → Profiling & Cleaning → SQL/Python Analysis → Data Modeling → KPI Development → Visualization → Business Insights → Recommendations**
-
----
-
-## 🛠️ Analytics Toolkit
-
-| Area | Tools |
-|---|---|
-| **SQL & Databases** | SQL Server, Advanced SQL, Data Modeling |
-| **BI & Visualization** | Power BI, DAX, Power Query |
-| **Programming & Analysis** | Python, Pandas, NumPy, Matplotlib |
-| **Analytics** | EDA, KPI Analysis, Business Analysis |
-| **Machine Learning** | Scikit-learn, Regression, Clustering |
-| **Data Workflow** | Data Cleaning, Data Validation, ETL Concepts, Git & GitHub |
+```sql
+SELECT
+    'CHAPPIDI LAVANYA'                         AS name,
+    'Data Analyst'                             AS role,
+    'Hyderabad, India'                         AS location,
+    'MCA, Sai Sudhir PG College (2024–2026)'   AS education,
+    ARRAY['SQL', 'Power BI', 'Python', 'DAX']  AS core_stack,
+    'Turn raw data into decisions people can act on' AS mission
+FROM professionals
+WHERE curious = TRUE 
+  AND detail_oriented = TRUE;
+```
 
 ---
 
-## 🚀 Featured Projects
+## 🔄 How I Work
 
-### 🛒 Olist E-Commerce Intelligence
-**SQL Server • Python • Power BI**
+```mermaid
+flowchart LR
+    A[Raw Data] --> B[Clean & Profile]
+    B --> C[SQL / Python Analysis]
+    C --> D[Data Modeling]
+    D --> E[Power BI Dashboard]
+    E --> F[Business Insight]
+    F --> G[Recommendation]
 
-End-to-end e-commerce analytics project transforming raw Olist data into business insights across customers, orders, products, sellers, payments and delivery performance.
+    style A fill:#2D0C38,stroke:#8B5CF6,stroke-width:2px,color:#FFFFFF,font-size:24px
+    style B fill:#2D0C38,stroke:#8B5CF6,stroke-width:2px,color:#FFFFFF,font-size:24px
+    style C fill:#2D0C38,stroke:#8B5CF6,stroke-width:2px,color:#FFFFFF,font-size:24px
+    style D fill:#2D0C38,stroke:#8B5CF6,stroke-width:2px,color:#FFFFFF,font-size:24px
+    style E fill:#2D0C38,stroke:#8B5CF6,stroke-width:2px,color:#FFFFFF,font-size:24px
+    style F fill:#2D0C38,stroke:#8B5CF6,stroke-width:2px,color:#FFFFFF,font-size:24px
+    style G fill:#580A30,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF,font-size:24px
+```
 
-**Focus:** data profiling, cleaning, relational modeling, SQL analysis, KPIs and business recommendations.
-
-[View Project →](https://github.com/chappidilavanya02-web/olist-commerce-intelligence)
-
----
-
-### 👥 IBM HR Analytics — Employee Attrition
-**Python • Pandas • EDA • Machine Learning**
-
-Analyzed employee data to identify patterns associated with attrition and translate analytical findings into HR-focused business recommendations.
-
-[View Project →](https://github.com/chappidilavanya02-web/IBM-HR-Analytics-attrition)
-
----
-
-### 📈 Sales Forecasting & Demand Intelligence
-**Python • Forecasting • Machine Learning • Streamlit**
-
-End-to-end sales intelligence project covering historical performance analysis, demand forecasting and product segmentation to support inventory decisions.
-
-[View Project →](https://github.com/chappidilavanya02-web/End-to-End-Sales-Forecasting-Demand-Intelligence-System)
+**Every project follows this structured pipeline: from messy raw files to an actionable business recommendation.**
 
 ---
 
-### 📊 Sales Data Analysis
-**Python • Pandas • Matplotlib**
+## 🧰 Technical Toolkit
 
-Exploratory analysis of sales trends, customer behavior, product/category performance and business patterns.
+### **Store & Query**
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
-[View Project →](https://github.com/chappidilavanya02-web/sales-data-analysis-python)
+### **Clean & Explore**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+### **Visualize & Model**
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
+### **Version Control & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+ 
+</p>
+
+### **Cloud**
+<p>
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS"/>
+</p>
+---
+
+## 🗂️ Case Studies
+
+### 🛒 1. E-Commerce Business Intelligence — Olist Dataset
+* **Question:** Where is the fulfillment funnel losing money and time — payments, sellers, or delivery?
+* **Approach:** Relational data modeling in SQL Server $\rightarrow$ Data cleaning & profiling $\rightarrow$ Complex SQL queries $\rightarrow$ Interactive Power BI dashboard.
+* **Output:** A KPI dashboard with delivery- and seller-quality insights translated into operational recommendations.
+* **Repository:** [`olist-commerce-intelligence`](https://github.com/chappidilavanya02-web/olist-commerce-intelligence)
 
 ---
 
-## 📚 Current Learning Focus
-
-- **SQL:** Joins, subqueries, CTEs, window functions, optimization and large datasets
-- **Power BI:** Data modeling, DAX, Power Query and advanced report development
-- **Python:** Data cleaning, EDA and analytical automation
-- **Business Analytics:** KPIs, root-cause analysis and actionable recommendations
-- **Cloud & Modern Data Stack:** Building foundational knowledge of AWS and cloud-based analytics
-
-> I’m focused on building strong fundamentals first, then applying them to increasingly complex analytical problems.
+### 👥 2. Employee Attrition Analysis — IBM HR Dataset
+* **Question:** Which employee segments are most likely to leave, and why?
+* **Approach:** Python + Pandas for EDA, correlation heatmaps, and turnover pattern detection across departments and roles.
+* **Output:** Targeted HR recommendations aimed at retaining the highest-risk employee segments.
+* **Repository:** [`IBM-HR-Analytics-attrition`](https://github.com/chappidilavanya02-web/IBM-HR-Analytics-attrition)
 
 ---
 
-## 📊 GitHub Activity
+### 📈 3. Sales Forecasting & Demand Intelligence System
+* **Question:** How much of each product will sell next period, and how should inventory respond?
+* **Approach:** Historical sales analysis $\rightarrow$ time-series forecasting $\rightarrow$ product segmentation delivered through a Streamlit app.
+* **Output:** Forward-looking view of demand to eliminate stockouts and minimize holding costs.
+* **Repository:** [`End-to-End-Sales-Forecasting-Demand-Intelligence-System`](https://github.com/chappidilavanya02-web/End-to-End-Sales-Forecasting-Demand-Intelligence-System)
+
+---
+
+### 📊 4. Sales Data Exploration
+* **Question:** What patterns in customer behavior and product performance actually drive revenue?
+* **Approach:** Exploratory analysis in Python/Pandas with visual category breakdowns in Matplotlib.
+* **Output:** A clear picture of regional sales trends and category performance to guide business decisions.
+* **Repository:** [`sales-data-analysis-python`](https://github.com/chappidilavanya02-web/sales-data-analysis-python)
+
+---
+
+## 📚 Currently Leveling Up
+* **Advanced SQL:** Window functions, CTEs, query optimization on large datasets.
+* **Power BI & DAX:** Star schema modeling, advanced DAX measures, row-level security.
+* **Python for Data:** Workflow automation for cleaning, ETL, and exploratory analysis.
+* **Cloud Analytics:** AWS fundamentals for cloud-based data storage and querying.
+
+---
+
+## 📈 Activity Snapshot
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chappidilavanya02-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chappidilavanya02-web&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=chappidilavanya02-web&show_icons=true&hide_border=true&bg_color=1E0A24&title_color=8B5CF6&icon_color=FFFFFF&text_color=FFFFFF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chappidilavanya02-web&layout=compact&hide_border=true&bg_color=1E0A24&title_color=8B5CF6&text_color=FFFFFF" height="165" />
 </div>
 
----
+<br/>
 
-## 🎯 What I'm Building
 
-**Data Analyst → Strong SQL → Advanced BI → Business Problem Solving**
-
-I’m using GitHub to document the projects, analysis and skills I build along the way.
-
----
 
 <div align="center">
-
-**Let's connect and talk data.**
-
-<a href="https://www.linkedin.com/in/lavanya-chappidi/">LinkedIn</a> •
-<a href="https://www.kaggle.com/chappidilavanya">Kaggle</a>
-
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=100000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Data+First%2C+Opinions+Second.&repeat=false" alt="closing line" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A0429,50:8B5CF6,100:4A0429&height=8&section=footer" width="100%"/>
 </div>
