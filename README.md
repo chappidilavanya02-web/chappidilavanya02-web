@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbcce7,100:7B42F6&height=200&section=header&text=Lavanya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbcce7,100:7B42F6&height=180&section=header&text=Lavanya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&height=100&lines=Data+Analyst+%F0%9F%92%BB;SQL+Specialist+%F0%9F%9A%80;LeetCode+SQL+Enthusiast+%F0%9F%8E%AF;Power+BI+Developer+%E2%9A%A1;Python+for+Data+Analytics+%F0%9F%8C%90;Turning+Data+into+Decisions+%F0%9F%94%A5" alt="Typing SVG" />
 <br/>
@@ -97,6 +97,8 @@ flowchart LR
 </p>
 ---
 
+<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=9B5DE5&center=true&vCenter=true&width=500&lines=Digging+into+the+data..." alt="section divider" /> </div>
+
 ## 🗂️ Case Studies
 
 ### 🛒 1. E-Commerce Business Intelligence — Olist Dataset
@@ -144,20 +146,6 @@ flowchart LR
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=chappidilavanya02-web&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=9B5DE5&icon_color=FF6FB8&text_color=E8E8E8"
-  height="180"
-  alt="Lavanya's GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chappidilavanya02-web&layout=compact&hide_border=true&bg_color=1A1A2E&title_color=9B5DE5&text_color=E8E8E8"
-  height="180"
-  alt="Lavanya's Top Languages"
-/>
-
-<br><br>
-
-<img
   src="https://github-readme-activity-graph.vercel.app/graph?username=chappidilavanya02-web&bg_color=1A1A2E&color=E8E8E8&line=9B5DE5&point=FF6FB8&area=true&hide_border=true"
   width="95%"
   alt="Lavanya's GitHub Activity Graph"
@@ -165,6 +153,17 @@ flowchart LR
 
 </div>
 
+<div align="center">
+
+<img src="./profile/stats.svg"
+     height="180"
+     alt="Lavanya's GitHub Stats">
+
+<img src="./profile/top-langs.svg"
+     height="180"
+     alt="Lavanya's Top Languages">
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=100000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Data+First%2C+Opinions+Second.&repeat=false" alt="closing line" />
