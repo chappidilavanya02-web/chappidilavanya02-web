@@ -145,16 +145,6 @@ flowchart LR
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=chappidilavanya02-web&bg_color=1A1A2E&color=E8E8E8&line=9B5DE5&point=FF6FB8&area=true&hide_border=true"
-  width="95%"
-  alt="Lavanya's GitHub Activity Graph"
-/>
-
-</div>
-
-<div align="center">
-
 <img src="./profile/stats.svg"
      height="180"
      alt="Lavanya's GitHub Stats">
