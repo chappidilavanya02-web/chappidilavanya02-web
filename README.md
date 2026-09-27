@@ -6,7 +6,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&height=100&lines=Data+Analyst+%F0%9F%92%BB;SQL+Specialist+%F0%9F%9A%80;LeetCode+SQL+Enthusiast+%F0%9F%8E%AF;Power+BI+Developer+%E2%9A%A1;Python+for+Data+Analytics+%F0%9F%8C%90;Turning+Data+into+Decisions+%F0%9F%94%A5" alt="Typing SVG" />
 <br/>
 
-*I turn messy, real-world data into decisions people can act on*
+*I turn messy, real-world data into decisions people can act on* <br>  
+LETS CONNECT!!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lavanya-chappidi/"><img src="https://img.shields.io/badge/LinkedIn-4A0429?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,7 +19,7 @@
 
 ---
 
-## 🧭 About Me
+## 🫟 About Me
 
 ```sql
 SELECT
@@ -141,12 +142,28 @@ flowchart LR
 ## 📈 Activity Snapshot
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chappidilavanya02-web&show_icons=true&hide_border=true&bg_color=1E0A24&title_color=8B5CF6&icon_color=FFFFFF&text_color=FFFFFF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chappidilavanya02-web&layout=compact&hide_border=true&bg_color=1E0A24&title_color=8B5CF6&text_color=FFFFFF" height="165" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=chappidilavanya02-web&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=9B5DE5&icon_color=FF6FB8&text_color=E8E8E8"
+  height="180"
+  alt="Lavanya's GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chappidilavanya02-web&layout=compact&hide_border=true&bg_color=1A1A2E&title_color=9B5DE5&text_color=E8E8E8"
+  height="180"
+  alt="Lavanya's Top Languages"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=chappidilavanya02-web&bg_color=1A1A2E&color=E8E8E8&line=9B5DE5&point=FF6FB8&area=true&hide_border=true"
+  width="95%"
+  alt="Lavanya's GitHub Activity Graph"
+/>
+
 </div>
-
-<br/>
-
 
 
 <div align="center">
