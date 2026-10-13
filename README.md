@@ -101,15 +101,9 @@ flowchart LR
 
 ## 🗂️ Case Studies
 
-### 🛒 1. E-Commerce Business Intelligence — Olist Dataset
-* **Question:** Where is the fulfillment funnel losing money and time — payments, sellers, or delivery?
-* **Approach:** Relational data modeling in SQL Server $\rightarrow$ Data cleaning & profiling $\rightarrow$ Complex SQL queries $\rightarrow$ Interactive Power BI dashboard.
-* **Output:** A KPI dashboard with delivery- and seller-quality insights translated into operational recommendations.
-* **Repository:** [`olist-commerce-intelligence`](https://github.com/chappidilavanya02-web/olist-commerce-intelligence)
-
 ---
 
-### 👥 2. Employee Attrition Analysis — IBM HR Dataset
+### 👥 1. Employee Attrition Analysis — IBM HR Dataset
 * **Question:** Which employee segments are most likely to leave, and why?
 * **Approach:** Python + Pandas for EDA, correlation heatmaps, and turnover pattern detection across departments and roles.
 * **Output:** Targeted HR recommendations aimed at retaining the highest-risk employee segments.
@@ -117,7 +111,7 @@ flowchart LR
 
 ---
 
-### 📈 3. Sales Forecasting & Demand Intelligence System
+### 📈 2. Sales Forecasting & Demand Intelligence System
 * **Question:** How much of each product will sell next period, and how should inventory respond?
 * **Approach:** Historical sales analysis $\rightarrow$ time-series forecasting $\rightarrow$ product segmentation delivered through a Streamlit app.
 * **Output:** Forward-looking view of demand to eliminate stockouts and minimize holding costs.
@@ -125,7 +119,7 @@ flowchart LR
 
 ---
 
-### 📊 4. Sales Data Exploration
+### 📊 3. Sales Data Exploration
 * **Question:** What patterns in customer behavior and product performance actually drive revenue?
 * **Approach:** Exploratory analysis in Python/Pandas with visual category breakdowns in Matplotlib.
 * **Output:** A clear picture of regional sales trends and category performance to guide business decisions.
